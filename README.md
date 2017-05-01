@@ -6,7 +6,7 @@ This work has been submited to ICoICT 2017 Conference
 
 # MIT License
 
-Copyright (c) 2017 Faris Hasan
+Copyright (c) 2017 Fares Hasan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
